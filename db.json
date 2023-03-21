@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "firstname": "Ali Hassan",
+      "lastname": "Kaleemi",
+      "birthdate": "1998-03-22",
+      "gender": "m",
+      "education": "graduate",
+      "company": "Tech Creator",
+      "jobExperience": 1,
+      "salary": 1,
+      "profile": "IMG_1565.jpg",
+      "id": 1
+    }
+  ]
+}
